@@ -7,24 +7,6 @@ UVM_URL = "https://soc.uvm.edu/api/?page=fose&route=details"
 # List of courses to watch for your friend
 COURSES = [
     {
-        "name": "ANTH 1140 (CRN 15447)",
-        "body": {
-            "group": "code:ANTH 1140",
-            "key": "crn:15447",
-            "srcdb": "202601",
-            "matched": ""
-        },
-    },
-    {
-        "name": "BUS 2620 (CRN 11518)",
-        "body": {
-            "group": "code:BUS 2620",
-            "key": "crn:11518",
-            "srcdb": "202601",
-            "matched": ""
-        },
-    },
-    {
         "name": "NR 1100 (CRN 13970)",
         "body": {
             "group": "code:NR 1100",
